@@ -6,4 +6,8 @@
 **Duration:** August to September 2024  
 **Mentor:** Neela Santhosh Kumar
 
+---
 
+## Project 
+
+**Title:** Stock-MArket-Forecasting
